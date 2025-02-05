@@ -1,2 +1,1 @@
-# bdrelacionales
-Base de Datos Relacionales 
+# Sánchez Valenzuela Frida Sofía 4AVP
